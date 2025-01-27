@@ -11,6 +11,7 @@
 - Playing Guitar
 - Playing Pool
 - Editing
+- Crocheting
 ---
 [Dritan's GitHub](https://github.com/xhelilaj10ani)
 ![I am Albanian so here is a photo of the Albanian Flag](https://cdn.britannica.com/00/6200-050-2E25CE97/Flag-Albania.jpg)
