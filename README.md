@@ -14,10 +14,10 @@
 - Crocheting
 
 `Some classes I'm taking this semester`
-1. CPE 322
-2. CPE 593
-3. CPE 345
-4. ID 399
+1.  CPE 322
+2.  CPE 593
+3.  CPE 345
+4.  IDE 399
 ---
 [Dritan's GitHub](https://github.com/xhelilaj10ani)
 ![I am Albanian so here is a photo of the Albanian Flag](https://cdn.britannica.com/00/6200-050-2E25CE97/Flag-Albania.jpg)
