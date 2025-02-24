@@ -4,6 +4,8 @@
 
 **Stevens Institute of Technology**
 *Computer Engineer 26'*
+
+[Design VI Team Project Site](https://sites.google.com/stevens.edu/dennis-ren-and-dritan-xhelilaj?usp=sharing)
 >I wish to do well in this class and to gain good knowledge from it.
 
 `Here are a few of my hobbies:`
