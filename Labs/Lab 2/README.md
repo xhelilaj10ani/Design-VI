@@ -5,17 +5,17 @@
 
 ---
 ## hostname
-Displays the computer's network hostname
+Displays the computer's network hostname. </br>
 ![hostname](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/hostname.png)
 
 ---
 ## env
-Displays the computer's environment variables
+Displays the computer's environment variables. </br>
 ![env](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/env.png)
 
 ---
 ## ps
-Displays information about running processes on the computer
+Displays information about running processes on the computer. </br>
 ![ps(1)](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/ps(1).png)
 ![ps(2)](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/ps(2).png)
 ![ps(3)](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/ps(3).png)
@@ -26,98 +26,98 @@ Displays information about running processes on the computer
 
 ---
 ## pwd
-Displays the full path of the current directory you are located in
+Displays the full path of the current directory you are located in. </br>
 ![pwd](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/pwd.png)
 
 ---
 ## git clone https://github.com/kevinwlu/iot.git
-Makes a copy of the git repository that is located at the specified website. Git must be installed for this command to work. In this case a copy of the IOT repository is being made.
+Makes a copy of the git repository that is located at the specified website. Git must be installed for this command to work. In this case a copy of the IOT repository is being made. </br>
 ![git clone https://github.com/kevinwlu/iot.git](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/git_clone.png)
 
 ---
 ## cd iot
-Changes the working directory to IOT.
+Changes the working directory to IOT. </br>
 ![cd iot](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/cd_iot.png)
 
 ---
 ## ls
-Displays a list of all files in the current directory besides hidden files.
+Displays a list of all files in the current directory besides hidden files. </br>
 ![ls](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/ls.png)
 
 ---
 ## cd
-Will change directories to your home directory
+Will change directories to your home directory. </br>
 ![cd](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/cd.png)
 
 ---
 ## df
-Displays information about disk space on a file system
+Displays information about disk space on a file system. </br>
 ![df](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/df.png)
 
 ---
 ## mkdir demo
-Makes a new directory called demo
+Makes a new directory called demo. </br>
 ![mkdir demo](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/mkdir_demo.png)
 
 ---
 ## cd demo
-Changes the working directory to demo
+Changes the working directory to demo. </br>
 ![cd demo](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/cd_demo.png)
 
 ---
 ## nano file
-Because the file named 'file' doesn't exist, this command will launch a blank text editor, allowing you to add and modify content. Once you’re done, the changes will be saved to a newly created file called 'file'
+Because the file named 'file' doesn't exist, this command will launch a blank text editor, allowing you to add and modify content. Once you’re done, the changes will be saved to a newly created file called 'file'. </br>
 ![nano file](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/nano_file.png)
 ![open nano file](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/open_nano_file.png)
 
 ---
 ## cat file
-Displays the contents of 'file'
+Displays the contents of 'file'. </br>
 ![cat file](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/cat_file.png)
 
 ---
 ## cp file file1
-Copies the contents of file into file1
+Copies the contents of file into file1. </br>
 ![cp file file1](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/cp_file_file1.png)
 
 ---
 ## mv file file2
-Renames file to file2
+Renames file to file2. </br>
 ![mv file file2](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/mv_file_file2.png)
 
 ---
 ## rm file2
-Deletes file2
+Deletes file2. </br>
 ![rm file2](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/rm_file2.png)
 
 ---
 ## clear
-Clears all content on the terminal screen
+Clears all content on the terminal screen. </br>
 ![clear](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/clear.png)
 
 ---
 ## man uname
-Opens the manual page for the 'uname' command. Manual pages show documentation about commands
+Opens the manual page for the 'uname' command. Manual pages show documentation about commands. </br>
 ![man uname](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/man_uname.png)
 
 ---
 ## uname -a
-Displays detailed system information in a single line
+Displays detailed system information in a single line. </br>
 ![uname -a](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/uname_-a.png)
 
 ---
 ## ifconfig
-Provides a comprehensive list of all network interfaces along with their respective IP addresses, MAC addresses, and other relevant details
+Provides a comprehensive list of all network interfaces along with their respective IP addresses, MAC addresses, and other relevant details. </br>
 ![ifconfig](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/ifconfig.png)
 
 ---
 ## ping localhost
-Sends network packets to your own machine to check if the network stack is functioning properly
+Sends network packets to your own machine to check if the network stack is functioning properly. </br>
 ![ping localhost](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/ping_localhost.png)
 
 ---
 ## netstat
-Displays information about your network connections, including active TCP connections, listening ports, routing table details, and network interface statistics
+Displays information about your network connections, including active TCP connections, listening ports, routing table details, and network interface statistics. </br>
 ![netstat](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%202/netstat.png)
 
 ---
