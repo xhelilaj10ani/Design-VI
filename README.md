@@ -2,7 +2,7 @@
 ## Engineering Design VI
 ### Dritan Xhelilaj
 
-**Stevens Institute of Technology**
+**Stevens Institute of Technology** <br/>
 *Computer Engineer 26'*
 
 [Design VI Team Project Site](https://sites.google.com/stevens.edu/dennis-ren-and-dritan-xhelilaj?usp=sharing)
