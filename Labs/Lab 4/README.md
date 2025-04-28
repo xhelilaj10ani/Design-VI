@@ -137,7 +137,7 @@ With the Django server still running, I accessed the app at `http://127.0.0.1:80
 ![con.py](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%204/con.py.png)
 
 The app looked like this:
-![cpup](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%204/cpup.png)
+![cpup](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%204/.png)
 
 ---
 ## Running Flask Server
