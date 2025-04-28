@@ -69,7 +69,7 @@ After that, I launched the Django server using `python manage.py runserver`.
 While the server was running, I navigated to http://127.0.0.1:8000/admin and logged in using my admin credentials. From there, I added new entries by filling in fields for date/time, temperature, longitude, and latitude, and then saved the data. Afterward, I visited the main Django app at http://127.0.0.1:8000.
 
 The resulting app display is shown below:
-![wsp](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%204/wsp.png)
+![ws](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%204/ws.png)
 
 ---
 ## Starting Django REST Project
