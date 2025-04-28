@@ -59,7 +59,7 @@ This command runs the Python script battery.py, which prints the current battery
 
 ## python documentstats.py document.txt
 This command runs the Python script documentstats.py, which reads a text file (in this case, document.txt), counts the occurrences of words excluding common stop words, and prints the total word count along with the top ten most frequent words.
-![batt](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%203/batt.png)
+![doc](https://github.com/xhelilaj10ani/Design-VI/blob/main/Labs/Lab%203/doc.png)
 
 ---
 ## Summary
