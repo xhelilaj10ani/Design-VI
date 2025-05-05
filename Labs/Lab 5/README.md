@@ -1,4 +1,4 @@
-# CPE 322 - Lab 3
+# CPE 322 - Lab 5
 ## Paho - MQTT
 ### Dritan Xhelilaj </br>
 "I pledge my honor that I have abided by the Stevens Honor System."
